@@ -1,0 +1,78 @@
+[{
+	"id": 3,
+	"name": "BMW",
+	"href": "/bilrude/BMW/",
+	"models": [{
+		"name": "1 serie 3 dørs",
+		"href": "http://www.rudefix.dk/bilrude/BMW/1-serie-3-dørs/"
+	}, {
+		"name": "1 serie 5 dørs",
+		"href": "http://www.rudefix.dk/bilrude/BMW/1-serie-5-dørs/"
+	}, {
+		"name": "2 serie Active Tourer",
+		"href": "http://www.rudefix.dk/bilrude/BMW/2-serie-Active-Tourer/"
+	}, {
+		"name": "2 serie coupe",
+		"href": "http://www.rudefix.dk/bilrude/BMW/2-serie-coupe/"
+	}, {
+		"name": "2 serie Gran Tourer",
+		"href": "http://www.rudefix.dk/bilrude/BMW/2-serie-Gran-Tourer/"
+	}, {
+		"name": "3serie 2 dørs coupe",
+		"href": "http://www.rudefix.dk/bilrude/BMW/3serie-2-dørs-coupe/"
+	}, {
+		"name": "3serie 4 dørs sedan",
+		"href": "http://www.rudefix.dk/bilrude/BMW/3serie-4-dørs-sedan/"
+	}, {
+		"name": "3serie Cabriolet",
+		"href": "http://www.rudefix.dk/bilrude/BMW/3serie-Cabriolet/"
+	}, {
+		"name": "3serie Compact",
+		"href": "http://www.rudefix.dk/bilrude/BMW/3serie-Compact/"
+	}, {
+		"name": "3serie stationcar",
+		"href": "http://www.rudefix.dk/bilrude/BMW/3serie-stationcar/"
+	}, {
+		"name": "4serie",
+		"href": "http://www.rudefix.dk/bilrude/BMW/4serie/"
+	}, {
+		"name": "5serie 4 dørs sedan",
+		"href": "http://www.rudefix.dk/bilrude/BMW/5serie-4-dørs-sedan/"
+	}, {
+		"name": "5serie 5 dørs",
+		"href": "http://www.rudefix.dk/bilrude/BMW/5serie-5-dørs/"
+	}, {
+		"name": "5serie stationcar",
+		"href": "http://www.rudefix.dk/bilrude/BMW/5serie-stationcar/"
+	}, {
+		"name": "6serie 2 dørs coupe cabriolet E63",
+		"href": "http://www.rudefix.dk/bilrude/BMW/6serie-2-dørs-coupe-cabriolet-E63/"
+	}, {
+		"name": "7serie 4 dørs sedan E32",
+		"href": "http://www.rudefix.dk/bilrude/BMW/7serie-4-dørs-sedan-E32/"
+	}, {
+		"name": "7serie 4 dørs sedan E38",
+		"href": "http://www.rudefix.dk/bilrude/BMW/7serie-4-dørs-sedan-E38/"
+	}, {
+		"name": "7serie 4 dørs sedan E65",
+		"href": "http://www.rudefix.dk/bilrude/BMW/7serie-4-dørs-sedan-E65/"
+	}, {
+		"name": "X1",
+		"href": "http://www.rudefix.dk/bilrude/BMW/X1/"
+	}, {
+		"name": "X2",
+		"href": "http://www.rudefix.dk/bilrude/BMW/X2/"
+	}, {
+		"name": "X3",
+		"href": "http://www.rudefix.dk/bilrude/BMW/X3/"
+	}, {
+		"name": "X5 5 dørs Jeep",
+		"href": "http://www.rudefix.dk/bilrude/BMW/X5-5-dørs-Jeep/"
+	}, {
+		"name": "X6",
+		"href": "http://www.rudefix.dk/bilrude/BMW/X6/"
+	}, {
+		"name": "Z5",
+		"href": "http://www.rudefix.dk/bilrude/BMW/Z5/"
+	}]
+}]
