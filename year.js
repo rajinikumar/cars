@@ -2,30 +2,16 @@ const request = require('request-promise');
 var cheerio = require('cheerio');
 var fs = require('fs');
 var http = require('http');
-var model = require('./data/model');
-var modelList = model.data;
+var modelList = require('./json-data/models.json');
 var x = 0;
-/*var d = [];
-for (i = 0; i < 43; i++) {
-	var obj = {};
-	obj.id = i + 1;
-	obj.year = "";
-	d.push(obj);
-}
 
-var stingJson = JSON.stringify(d);
-fs.writeFileSync('./json/checkyear.json', stingJson);
-
-return;*/
-
+//{"model_id":2,"name":"F type coupe","href":"http://www.rudefix.dk/bilrude/Jaguar/F-type-coupe/","brand_id":17,"brand_url":"http://www.rudefix.dk/bilrude/Jaguar/"}
 var completed_requests = 0;
-modles = modelList[x].models;
-console.log(modles);
-modles.forEach(function(element) {
-	var currentUrl = element.href;
+var yearList = [];
+modelList.forEach(function(element) {
+	var currentUrl = element.model_url;
 	console.log(currentUrl)
 	http.get(currentUrl, (resp) => { 
-		element.years = [];
 
 		let data = ''; 
 		resp.on('data', (chunk) => {  
@@ -33,28 +19,35 @@ modles.forEach(function(element) {
 		});
 		resp.on('end', () => {
 			var $ = cheerio.load(data);
-			completed_requests++;
-
+			//let c = $('.twelve table tr');
+			//console.log(c);
+			//fs.writeFileSync('./json-data/year.json', c);
 			$('.twelve table tr').each(function(i, e1) {
-				var year = e1.children[0].children[0].children[0].data;
-				var u = year.replace(/\s/g, '');
-				var fu = `${currentUrl}${u}/`;
-				console.log(element.name + '-------------------');
-				console.log(fu);
-				console.log(year);
+				var text = $(this).find('.year_contents').text();
+				var gy = $(this).find('.btn').attr('href');
+				var fy = `${currentUrl}${gy}`;
 				var obj = {};
-				obj.year = year;
-				obj.href = fu;
-				element.years.push(obj);
+				obj.year = text;
+				obj.href = fy;
+				obj.model_id = element.model_id;
+				obj.model_url = element.model_url;
+				obj.brand_id = element.brand_id;
+				obj.brand_url = element.brand_url;
+				yearList.push(obj)
+				//console.log(obj);	
+						
 			});
 
-			console.log(element);
-			wait(7000); 
+			//console.log(element);
+			//wait(7000); 
 
+			completed_requests++;
 
-			if (completed_requests == modles.length) {
-				var stingJson = JSON.stringify(modles);
-				fs.writeFileSync('./json/year.json', stingJson);
+console.log(completed_requests +'=='+ modelList.length)
+console.log(currentUrl);
+			if (completed_requests == modelList.length) {
+				var stingJson = JSON.stringify(yearList);
+				fs.writeFileSync('./json-data/year.json', stingJson);
 			}
 		});
 
