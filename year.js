@@ -28,12 +28,15 @@ modelList.forEach(function(element) {
 				var fy = `${currentUrl}${gy}`;
 				var obj = {};
 				obj.year = text;
-				obj.href = fy;
+				obj.year_url = fy;
 				obj.model_id = element.model_id;
 				obj.model_url = element.model_url;
 				obj.brand_id = element.brand_id;
 				obj.brand_url = element.brand_url;
-				yearList.push(obj)
+				yearList.push(obj);
+				setTimeout(function () {
+					console.log(obj);
+				  }, 1000);
 				//console.log(obj);	
 						
 			});
@@ -52,7 +55,8 @@ console.log(currentUrl);
 		});
 
 	}).on("error", (err) => { 
-		console.log("Error: " + err.message);
+		console.log(currentUrl)
+		console.log("Error------------------------------------------------------------------------->>: " + err.message);
 	});
 
 });
