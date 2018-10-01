@@ -1,20 +1,17 @@
-const request = require('request-promise');
 var cheerio = require('cheerio');
 var fs = require('fs');
 var http = require('http');
-var brand = require('./data/brand');
-
-var carlist = brand.data;
-
-var prefix = 'http://www.rudefix.dk';
+var brandList = require('./json-data/brand.json')
 
 var completed_requests = 0;
-carlist.forEach(function(element) {
-	var currentUrl = prefix + element.href;
+modelList = [];
+console.log(brandList);
+console.log("console.log(brandList);");
+brandList.forEach(function(element) {
+	var currentUrl = element.brand_url;
 	console.log(currentUrl);
-	http.get(currentUrl, (resp) => { 
-		element.models = [];
 
+	http.get(currentUrl, (resp) => { 
 		let data = ''; 
 		resp.on('data', (chunk) => {  
 			data += chunk; 
@@ -25,20 +22,21 @@ carlist.forEach(function(element) {
 			completed_requests++;
 
 			$('.twelve div').each(function(i, e1) {
-				console.log(e1);
-				if (!(e1.attribs.class == 'underline-heading')) {
-					
+				if (!(e1.attribs.class == 'underline-heading')) {					
 					var obj = {};
+					obj.model_id = i + 1;
 					obj.name = e1.children[0].children[0].data;
-					obj.href = currentUrl + e1.children[0].attribs.href;
-					element.models.push(obj);
+					obj.model_url = currentUrl + e1.children[0].attribs.href;
+					obj.brand_id = element.brand_id;
+					obj.brand_url = element.brand_url;
+					modelList.push(obj);
 				}
 			});
 
-			if (completed_requests == carlist.length) {
+			if (completed_requests == brandList.length) {
 				console.log("------------>" + completed_requests);
-				var stingJson = JSON.stringify(carlist);
-				fs.writeFileSync('./json/model1.json', stingJson);
+				var stingJson = JSON.stringify(modelList);
+				fs.writeFileSync('./json-data/models.json', stingJson);
 			}
 		});
 
