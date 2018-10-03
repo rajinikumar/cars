@@ -1,0 +1,1235 @@
+[
+    {
+        "year_id": 1,
+        "year": "1996 - 2001",
+        "year_url": "http://www.rudefix.dk/bilrude/Chrysler/Stratus-cabriolet/1996-2001/",
+        "model_id": 7,
+        "model_url": "http://www.rudefix.dk/bilrude/Chrysler/Stratus-cabriolet/",
+        "brand_id": 5,
+        "brand_url": "http://www.rudefix.dk/bilrude/Chrysler/"
+    },
+    {
+        "year_id": 2,
+        "year": "1992 - 1997",
+        "year_url": "http://www.rudefix.dk/bilrude/Alfa-Romeo/155/1992-1997/",
+        "model_id": 8,
+        "model_url": "http://www.rudefix.dk/bilrude/Alfa-Romeo/155/",
+        "brand_id": 1,
+        "brand_url": "http://www.rudefix.dk/bilrude/Alfa-Romeo/"
+    },
+    {
+        "year_id": 3,
+        "year": "1992 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Nissan/Serena-Minibus/1992-2012/",
+        "model_id": 24,
+        "model_url": "http://www.rudefix.dk/bilrude/Nissan/Serena-Minibus/",
+        "brand_id": 26,
+        "brand_url": "http://www.rudefix.dk/bilrude/Nissan/"
+    },
+    {
+        "year_id": 4,
+        "year": "2010 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Kia/Venga/2010-2018/",
+        "model_id": 25,
+        "model_url": "http://www.rudefix.dk/bilrude/Kia/Venga/",
+        "brand_id": 19,
+        "brand_url": "http://www.rudefix.dk/bilrude/Kia/"
+    },
+    {
+        "year_id": 5,
+        "year": "0000 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/x.div/Rudeskifte/0000-2018/",
+        "model_id": 3,
+        "model_url": "http://www.rudefix.dk/bilrude/x.div/Rudeskifte/",
+        "brand_id": 43,
+        "brand_url": "http://www.rudefix.dk/bilrude/x.div/"
+    },
+    {
+        "year_id": 6,
+        "year": "2007 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Mercedes/Sprinter-ladbil/2007-2018/",
+        "model_id": 24,
+        "model_url": "http://www.rudefix.dk/bilrude/Mercedes/Sprinter-ladbil/",
+        "brand_id": 23,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mercedes/"
+    },
+    {
+        "year_id": 7,
+        "year": "2009 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Nissan/Pixo/2009-2018/",
+        "model_id": 16,
+        "model_url": "http://www.rudefix.dk/bilrude/Nissan/Pixo/",
+        "brand_id": 26,
+        "brand_url": "http://www.rudefix.dk/bilrude/Nissan/"
+    },
+    {
+        "year_id": 8,
+        "year": "2013 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Mercedes/C-klasse-stationcar/2013-2018/",
+        "model_id": 7,
+        "model_url": "http://www.rudefix.dk/bilrude/Mercedes/C-klasse-stationcar/",
+        "brand_id": 23,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mercedes/"
+    },
+    {
+        "year_id": 9,
+        "year": "2007 - 2014",
+        "year_url": "http://www.rudefix.dk/bilrude/Mercedes/C-klasse-stationcar/2007-2014/",
+        "model_id": 7,
+        "model_url": "http://www.rudefix.dk/bilrude/Mercedes/C-klasse-stationcar/",
+        "brand_id": 23,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mercedes/"
+    },
+    {
+        "year_id": 10,
+        "year": "2003 - 2007",
+        "year_url": "http://www.rudefix.dk/bilrude/Mercedes/C-klasse-stationcar/2003-2007/",
+        "model_id": 7,
+        "model_url": "http://www.rudefix.dk/bilrude/Mercedes/C-klasse-stationcar/",
+        "brand_id": 23,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mercedes/"
+    },
+    {
+        "year_id": 11,
+        "year": "2000 - 2004",
+        "year_url": "http://www.rudefix.dk/bilrude/Mercedes/C-klasse-stationcar/2000-2004/",
+        "model_id": 7,
+        "model_url": "http://www.rudefix.dk/bilrude/Mercedes/C-klasse-stationcar/",
+        "brand_id": 23,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mercedes/"
+    },
+    {
+        "year_id": 12,
+        "year": "1993 - 2000",
+        "year_url": "http://www.rudefix.dk/bilrude/Mercedes/C-klasse-stationcar/1993-2000/",
+        "model_id": 7,
+        "model_url": "http://www.rudefix.dk/bilrude/Mercedes/C-klasse-stationcar/",
+        "brand_id": 23,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mercedes/"
+    },
+    {
+        "year_id": 13,
+        "year": "2015 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Mercedes/GLK/2015-2018/",
+        "model_id": 18,
+        "model_url": "http://www.rudefix.dk/bilrude/Mercedes/GLK/",
+        "brand_id": 23,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mercedes/"
+    },
+    {
+        "year_id": 14,
+        "year": "2008 - 2015",
+        "year_url": "http://www.rudefix.dk/bilrude/Mercedes/GLK/2008-2015/",
+        "model_id": 18,
+        "model_url": "http://www.rudefix.dk/bilrude/Mercedes/GLK/",
+        "brand_id": 23,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mercedes/"
+    },
+    {
+        "year_id": 15,
+        "year": "1997 - 2011",
+        "year_url": "http://www.rudefix.dk/bilrude/Alfa-Romeo/156/1997-2011/",
+        "model_id": 9,
+        "model_url": "http://www.rudefix.dk/bilrude/Alfa-Romeo/156/",
+        "brand_id": 1,
+        "brand_url": "http://www.rudefix.dk/bilrude/Alfa-Romeo/"
+    },
+    {
+        "year_id": 16,
+        "year": "2012 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Jaguar/F-type-coupe/2012-2018/",
+        "model_id": 2,
+        "model_url": "http://www.rudefix.dk/bilrude/Jaguar/F-type-coupe/",
+        "brand_id": 17,
+        "brand_url": "http://www.rudefix.dk/bilrude/Jaguar/"
+    },
+    {
+        "year_id": 17,
+        "year": "1997 - 1999",
+        "year_url": "http://www.rudefix.dk/bilrude/Rover/400-serie/1997-1999/",
+        "model_id": 4,
+        "model_url": "http://www.rudefix.dk/bilrude/Rover/400-serie/",
+        "brand_id": 31,
+        "brand_url": "http://www.rudefix.dk/bilrude/Rover/"
+    },
+    {
+        "year_id": 18,
+        "year": "1989 - 1996",
+        "year_url": "http://www.rudefix.dk/bilrude/Rover/400-serie/1989-1996/",
+        "model_id": 4,
+        "model_url": "http://www.rudefix.dk/bilrude/Rover/400-serie/",
+        "brand_id": 31,
+        "brand_url": "http://www.rudefix.dk/bilrude/Rover/"
+    },
+    {
+        "year_id": 19,
+        "year": "2007 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Mercedes/Sprinter-kassebil/2007-2018/",
+        "model_id": 23,
+        "model_url": "http://www.rudefix.dk/bilrude/Mercedes/Sprinter-kassebil/",
+        "brand_id": 23,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mercedes/"
+    },
+    {
+        "year_id": 20,
+        "year": "2016 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Renault/Megane-stationcar/2016-2018/",
+        "model_id": 18,
+        "model_url": "http://www.rudefix.dk/bilrude/Renault/Megane-stationcar/",
+        "brand_id": 30,
+        "brand_url": "http://www.rudefix.dk/bilrude/Renault/"
+    },
+    {
+        "year_id": 21,
+        "year": "2008 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Renault/Megane-stationcar/2008-2018/",
+        "model_id": 18,
+        "model_url": "http://www.rudefix.dk/bilrude/Renault/Megane-stationcar/",
+        "brand_id": 30,
+        "brand_url": "http://www.rudefix.dk/bilrude/Renault/"
+    },
+    {
+        "year_id": 22,
+        "year": "2002 - 2009",
+        "year_url": "http://www.rudefix.dk/bilrude/Renault/Megane-stationcar/2002-2009/",
+        "model_id": 18,
+        "model_url": "http://www.rudefix.dk/bilrude/Renault/Megane-stationcar/",
+        "brand_id": 30,
+        "brand_url": "http://www.rudefix.dk/bilrude/Renault/"
+    },
+    {
+        "year_id": 23,
+        "year": "1999 - 2002",
+        "year_url": "http://www.rudefix.dk/bilrude/Renault/Megane-stationcar/1999-2002/",
+        "model_id": 18,
+        "model_url": "http://www.rudefix.dk/bilrude/Renault/Megane-stationcar/",
+        "brand_id": 30,
+        "brand_url": "http://www.rudefix.dk/bilrude/Renault/"
+    },
+    {
+        "year_id": 24,
+        "year": "2011 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Audi/A6-sedan/2011-2018/",
+        "model_id": 19,
+        "model_url": "http://www.rudefix.dk/bilrude/Audi/A6-sedan/",
+        "brand_id": 2,
+        "brand_url": "http://www.rudefix.dk/bilrude/Audi/"
+    },
+    {
+        "year_id": 25,
+        "year": "2004 - 2011",
+        "year_url": "http://www.rudefix.dk/bilrude/Audi/A6-sedan/2004-2011/",
+        "model_id": 19,
+        "model_url": "http://www.rudefix.dk/bilrude/Audi/A6-sedan/",
+        "brand_id": 2,
+        "brand_url": "http://www.rudefix.dk/bilrude/Audi/"
+    },
+    {
+        "year_id": 26,
+        "year": "1997 - 2004",
+        "year_url": "http://www.rudefix.dk/bilrude/Audi/A6-sedan/1997-2004/",
+        "model_id": 19,
+        "model_url": "http://www.rudefix.dk/bilrude/Audi/A6-sedan/",
+        "brand_id": 2,
+        "brand_url": "http://www.rudefix.dk/bilrude/Audi/"
+    },
+    {
+        "year_id": 27,
+        "year": "1995 - 1998",
+        "year_url": "http://www.rudefix.dk/bilrude/Audi/A6-sedan/1995-1998/",
+        "model_id": 19,
+        "model_url": "http://www.rudefix.dk/bilrude/Audi/A6-sedan/",
+        "brand_id": 2,
+        "brand_url": "http://www.rudefix.dk/bilrude/Audi/"
+    },
+    {
+        "year_id": 28,
+        "year": "2012 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Mercedes/CLA/2012-2018/",
+        "model_id": 9,
+        "model_url": "http://www.rudefix.dk/bilrude/Mercedes/CLA/",
+        "brand_id": 23,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mercedes/"
+    },
+    {
+        "year_id": 29,
+        "year": "2002 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Mercedes/vaneo-van/2002-2012/",
+        "model_id": 27,
+        "model_url": "http://www.rudefix.dk/bilrude/Mercedes/vaneo-van/",
+        "brand_id": 23,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mercedes/"
+    },
+    {
+        "year_id": 30,
+        "year": "2008 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Dodge/Journey/2008-2018/",
+        "model_id": 3,
+        "model_url": "http://www.rudefix.dk/bilrude/Dodge/Journey/",
+        "brand_id": 11,
+        "brand_url": "http://www.rudefix.dk/bilrude/Dodge/"
+    },
+    {
+        "year_id": 31,
+        "year": "1998 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Fiat/Seicento/1998-2012/",
+        "model_id": 26,
+        "model_url": "http://www.rudefix.dk/bilrude/Fiat/Seicento/",
+        "brand_id": 12,
+        "brand_url": "http://www.rudefix.dk/bilrude/Fiat/"
+    },
+    {
+        "year_id": 32,
+        "year": "1988 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Volvo/760-765-sedan/1988-2012/",
+        "model_id": 5,
+        "model_url": "http://www.rudefix.dk/bilrude/Volvo/760-765-sedan/",
+        "brand_id": 41,
+        "brand_url": "http://www.rudefix.dk/bilrude/Volvo/"
+    },
+    {
+        "year_id": 33,
+        "year": "2007 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Fiat/Scudo-van/2007-2018/",
+        "model_id": 25,
+        "model_url": "http://www.rudefix.dk/bilrude/Fiat/Scudo-van/",
+        "brand_id": 12,
+        "brand_url": "http://www.rudefix.dk/bilrude/Fiat/"
+    },
+    {
+        "year_id": 34,
+        "year": "1995 - 2007",
+        "year_url": "http://www.rudefix.dk/bilrude/Fiat/Scudo-van/1995-2007/",
+        "model_id": 25,
+        "model_url": "http://www.rudefix.dk/bilrude/Fiat/Scudo-van/",
+        "brand_id": 12,
+        "brand_url": "http://www.rudefix.dk/bilrude/Fiat/"
+    },
+    {
+        "year_id": 35,
+        "year": "2011 - 2014",
+        "year_url": "http://www.rudefix.dk/bilrude/Mercedes/C-klasse-Coupe/2011-2014/",
+        "model_id": 6,
+        "model_url": "http://www.rudefix.dk/bilrude/Mercedes/C-klasse-Coupe/",
+        "brand_id": 23,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mercedes/"
+    },
+    {
+        "year_id": 36,
+        "year": "2008 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Fiat/Fiorino-van/2008-2012/",
+        "model_id": 13,
+        "model_url": "http://www.rudefix.dk/bilrude/Fiat/Fiorino-van/",
+        "brand_id": 12,
+        "brand_url": "http://www.rudefix.dk/bilrude/Fiat/"
+    },
+    {
+        "year_id": 37,
+        "year": "2006 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Peugeot/Boxer/2006-2018/",
+        "model_id": 49,
+        "model_url": "http://www.rudefix.dk/bilrude/Peugeot/Boxer/",
+        "brand_id": 28,
+        "brand_url": "http://www.rudefix.dk/bilrude/Peugeot/"
+    },
+    {
+        "year_id": 38,
+        "year": "1994 - 2006",
+        "year_url": "http://www.rudefix.dk/bilrude/Peugeot/Boxer/1994-2006/",
+        "model_id": 49,
+        "model_url": "http://www.rudefix.dk/bilrude/Peugeot/Boxer/",
+        "brand_id": 28,
+        "brand_url": "http://www.rudefix.dk/bilrude/Peugeot/"
+    },
+    {
+        "year_id": 39,
+        "year": "2017 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Skoda/Kodiaq/2017-2018/",
+        "model_id": 12,
+        "model_url": "http://www.rudefix.dk/bilrude/Skoda/Kodiaq/",
+        "brand_id": 33,
+        "brand_url": "http://www.rudefix.dk/bilrude/Skoda/"
+    },
+    {
+        "year_id": 40,
+        "year": "2014 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Skoda/Fabia-stationcar/2014-2018/",
+        "model_id": 7,
+        "model_url": "http://www.rudefix.dk/bilrude/Skoda/Fabia-stationcar/",
+        "brand_id": 33,
+        "brand_url": "http://www.rudefix.dk/bilrude/Skoda/"
+    },
+    {
+        "year_id": 41,
+        "year": "2007 - 2014",
+        "year_url": "http://www.rudefix.dk/bilrude/Skoda/Fabia-stationcar/2007-2014/",
+        "model_id": 7,
+        "model_url": "http://www.rudefix.dk/bilrude/Skoda/Fabia-stationcar/",
+        "brand_id": 33,
+        "brand_url": "http://www.rudefix.dk/bilrude/Skoda/"
+    },
+    {
+        "year_id": 42,
+        "year": "2000 - 2007",
+        "year_url": "http://www.rudefix.dk/bilrude/Skoda/Fabia-stationcar/2000-2007/",
+        "model_id": 7,
+        "model_url": "http://www.rudefix.dk/bilrude/Skoda/Fabia-stationcar/",
+        "brand_id": 33,
+        "brand_url": "http://www.rudefix.dk/bilrude/Skoda/"
+    },
+    {
+        "year_id": 43,
+        "year": "2013 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Ford/Transit-Custom/2013-2018/",
+        "model_id": 26,
+        "model_url": "http://www.rudefix.dk/bilrude/Ford/Transit-Custom/",
+        "brand_id": 13,
+        "brand_url": "http://www.rudefix.dk/bilrude/Ford/"
+    },
+    {
+        "year_id": 44,
+        "year": "2008 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Fiat/500/2008-2018/",
+        "model_id": 2,
+        "model_url": "http://www.rudefix.dk/bilrude/Fiat/500/",
+        "brand_id": 12,
+        "brand_url": "http://www.rudefix.dk/bilrude/Fiat/"
+    },
+    {
+        "year_id": 45,
+        "year": "1998 - 2004",
+        "year_url": "http://www.rudefix.dk/bilrude/Chrysler/300M/1998-2004/",
+        "model_id": 2,
+        "model_url": "http://www.rudefix.dk/bilrude/Chrysler/300M/",
+        "brand_id": 5,
+        "brand_url": "http://www.rudefix.dk/bilrude/Chrysler/"
+    },
+    {
+        "year_id": 46,
+        "year": "2002 - 2004",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Corolla-Combi-van/2002-2004/",
+        "model_id": 22,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Corolla-Combi-van/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 47,
+        "year": "2013 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Rav-4/2013-2018/",
+        "model_id": 39,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Rav-4/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 48,
+        "year": "2006 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Rav-4/2006-2012/",
+        "model_id": 39,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Rav-4/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 49,
+        "year": "2003 - 2006",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Rav-4/2003-2006/",
+        "model_id": 39,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Rav-4/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 50,
+        "year": "2000 - 2003",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Rav-4/2000-2003/",
+        "model_id": 39,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Rav-4/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 51,
+        "year": "1995 - 2000",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Rav-4/1995-2000/",
+        "model_id": 39,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Rav-4/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 52,
+        "year": "1997 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Saab/9-5-stationcar/1997-2012/",
+        "model_id": 8,
+        "model_url": "http://www.rudefix.dk/bilrude/Saab/9-5-stationcar/",
+        "brand_id": 38,
+        "brand_url": "http://www.rudefix.dk/bilrude/Saab/"
+    },
+    {
+        "year_id": 53,
+        "year": "2003 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Peugeot/807/2003-2012/",
+        "model_id": 47,
+        "model_url": "http://www.rudefix.dk/bilrude/Peugeot/807/",
+        "brand_id": 28,
+        "brand_url": "http://www.rudefix.dk/bilrude/Peugeot/"
+    },
+    {
+        "year_id": 54,
+        "year": "2013 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Peugeot/308-stationcar/2013-2018/",
+        "model_id": 33,
+        "model_url": "http://www.rudefix.dk/bilrude/Peugeot/308-stationcar/",
+        "brand_id": 28,
+        "brand_url": "http://www.rudefix.dk/bilrude/Peugeot/"
+    },
+    {
+        "year_id": 55,
+        "year": "2007 - 2013",
+        "year_url": "http://www.rudefix.dk/bilrude/Peugeot/308-stationcar/2007-2013/",
+        "model_id": 33,
+        "model_url": "http://www.rudefix.dk/bilrude/Peugeot/308-stationcar/",
+        "brand_id": 28,
+        "brand_url": "http://www.rudefix.dk/bilrude/Peugeot/"
+    },
+    {
+        "year_id": 56,
+        "year": "2006 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Peugeot/207-cabriolet/2006-2012/",
+        "model_id": 18,
+        "model_url": "http://www.rudefix.dk/bilrude/Peugeot/207-cabriolet/",
+        "brand_id": 28,
+        "brand_url": "http://www.rudefix.dk/bilrude/Peugeot/"
+    },
+    {
+        "year_id": 57,
+        "year": "1995 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Skoda/Felicia-stationcar/1995-2012/",
+        "model_id": 11,
+        "model_url": "http://www.rudefix.dk/bilrude/Skoda/Felicia-stationcar/",
+        "brand_id": 33,
+        "brand_url": "http://www.rudefix.dk/bilrude/Skoda/"
+    },
+    {
+        "year_id": 58,
+        "year": "1995 - 2007",
+        "year_url": "http://www.rudefix.dk/bilrude/Mercedes/Sprinter-W901-Lav-model-pick-up-dobbeltkabine/1995-2007/",
+        "model_id": 26,
+        "model_url": "http://www.rudefix.dk/bilrude/Mercedes/Sprinter-W901-Lav-model-pick-up-dobbeltkabine/",
+        "brand_id": 23,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mercedes/"
+    },
+    {
+        "year_id": 59,
+        "year": "1993 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Nissan/Terrano-II/1993-2012/",
+        "model_id": 28,
+        "model_url": "http://www.rudefix.dk/bilrude/Nissan/Terrano-II/",
+        "brand_id": 26,
+        "brand_url": "http://www.rudefix.dk/bilrude/Nissan/"
+    },
+    {
+        "year_id": 60,
+        "year": "1998 - 2007",
+        "year_url": "http://www.rudefix.dk/bilrude/Fiat/Multipla/1998-2007/",
+        "model_id": 17,
+        "model_url": "http://www.rudefix.dk/bilrude/Fiat/Multipla/",
+        "brand_id": 12,
+        "brand_url": "http://www.rudefix.dk/bilrude/Fiat/"
+    },
+    {
+        "year_id": 61,
+        "year": "1997 - 2011",
+        "year_url": "http://www.rudefix.dk/bilrude/Alfa-Romeo/156-STV/1997-2011/",
+        "model_id": 10,
+        "model_url": "http://www.rudefix.dk/bilrude/Alfa-Romeo/156-STV/",
+        "brand_id": 1,
+        "brand_url": "http://www.rudefix.dk/bilrude/Alfa-Romeo/"
+    },
+    {
+        "year_id": 62,
+        "year": "2001 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Nissan/Primastar-/2001-2018/",
+        "model_id": 17,
+        "model_url": "http://www.rudefix.dk/bilrude/Nissan/Primastar-/",
+        "brand_id": 26,
+        "brand_url": "http://www.rudefix.dk/bilrude/Nissan/"
+    },
+    {
+        "year_id": 63,
+        "year": "2001 - 2014",
+        "year_url": "http://www.rudefix.dk/bilrude/Nissan/Primastar-/2001-2014/",
+        "model_id": 17,
+        "model_url": "http://www.rudefix.dk/bilrude/Nissan/Primastar-/",
+        "brand_id": 26,
+        "brand_url": "http://www.rudefix.dk/bilrude/Nissan/"
+    },
+    {
+        "year_id": 64,
+        "year": "2008 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Fiat/Qubo/2008-2012/",
+        "model_id": 24,
+        "model_url": "http://www.rudefix.dk/bilrude/Fiat/Qubo/",
+        "brand_id": 12,
+        "brand_url": "http://www.rudefix.dk/bilrude/Fiat/"
+    },
+    {
+        "year_id": 65,
+        "year": "2000 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Mitsubishi/Pajero/2000-2018/",
+        "model_id": 23,
+        "model_url": "http://www.rudefix.dk/bilrude/Mitsubishi/Pajero/",
+        "brand_id": 25,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mitsubishi/"
+    },
+    {
+        "year_id": 66,
+        "year": "1992 - 1998",
+        "year_url": "http://www.rudefix.dk/bilrude/Mitsubishi/Pajero/1992-1998/",
+        "model_id": 23,
+        "model_url": "http://www.rudefix.dk/bilrude/Mitsubishi/Pajero/",
+        "brand_id": 25,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mitsubishi/"
+    },
+    {
+        "year_id": 67,
+        "year": "1992 - 2000",
+        "year_url": "http://www.rudefix.dk/bilrude/Mitsubishi/Pajero/1992-2000/",
+        "model_id": 23,
+        "model_url": "http://www.rudefix.dk/bilrude/Mitsubishi/Pajero/",
+        "brand_id": 25,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mitsubishi/"
+    },
+    {
+        "year_id": 68,
+        "year": "2004 - 2007",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Corolla-stationcar/2004-2007/",
+        "model_id": 23,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Corolla-stationcar/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 69,
+        "year": "2002 - 2004",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Corolla-stationcar/2002-2004/",
+        "model_id": 23,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Corolla-stationcar/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 70,
+        "year": "1997 - 2002",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Corolla-stationcar/1997-2002/",
+        "model_id": 23,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Corolla-stationcar/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 71,
+        "year": "1992 - 1997",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Corolla-stationcar/1992-1997/",
+        "model_id": 23,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Corolla-stationcar/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 72,
+        "year": "1987 - 1992",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Corolla-stationcar/1987-1992/",
+        "model_id": 23,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Corolla-stationcar/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 73,
+        "year": "2000 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Audi/A2/2000-2018/",
+        "model_id": 8,
+        "model_url": "http://www.rudefix.dk/bilrude/Audi/A2/",
+        "brand_id": 2,
+        "brand_url": "http://www.rudefix.dk/bilrude/Audi/"
+    },
+    {
+        "year_id": 74,
+        "year": "1997 - 2000",
+        "year_url": "http://www.rudefix.dk/bilrude/Suzuki/Wagon-R/1997-2000/",
+        "model_id": 22,
+        "model_url": "http://www.rudefix.dk/bilrude/Suzuki/Wagon-R/",
+        "brand_id": 37,
+        "brand_url": "http://www.rudefix.dk/bilrude/Suzuki/"
+    },
+    {
+        "year_id": 75,
+        "year": "2002 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Honda/Stream/2002-2012/",
+        "model_id": 16,
+        "model_url": "http://www.rudefix.dk/bilrude/Honda/Stream/",
+        "brand_id": 14,
+        "brand_url": "http://www.rudefix.dk/bilrude/Honda/"
+    },
+    {
+        "year_id": 76,
+        "year": "2010 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Renault/Master/2010-2018/",
+        "model_id": 13,
+        "model_url": "http://www.rudefix.dk/bilrude/Renault/Master/",
+        "brand_id": 30,
+        "brand_url": "http://www.rudefix.dk/bilrude/Renault/"
+    },
+    {
+        "year_id": 77,
+        "year": "1998 - 2010",
+        "year_url": "http://www.rudefix.dk/bilrude/Renault/Master/1998-2010/",
+        "model_id": 13,
+        "model_url": "http://www.rudefix.dk/bilrude/Renault/Master/",
+        "brand_id": 30,
+        "brand_url": "http://www.rudefix.dk/bilrude/Renault/"
+    },
+    {
+        "year_id": 78,
+        "year": "1991 - 1994",
+        "year_url": "http://www.rudefix.dk/bilrude/Audi/100-og-200-sedan/1991-1994/",
+        "model_id": 3,
+        "model_url": "http://www.rudefix.dk/bilrude/Audi/100-og-200-sedan/",
+        "brand_id": 2,
+        "brand_url": "http://www.rudefix.dk/bilrude/Audi/"
+    },
+    {
+        "year_id": 79,
+        "year": "1983 - 1986",
+        "year_url": "http://www.rudefix.dk/bilrude/Audi/100-og-200-sedan/1983-1986/",
+        "model_id": 3,
+        "model_url": "http://www.rudefix.dk/bilrude/Audi/100-og-200-sedan/",
+        "brand_id": 2,
+        "brand_url": "http://www.rudefix.dk/bilrude/Audi/"
+    },
+    {
+        "year_id": 80,
+        "year": "2004 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Corolla-Verso-sportsvan/2004-2018/",
+        "model_id": 25,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Corolla-Verso-sportsvan/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 81,
+        "year": "2002 - 2004",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Corolla-Verso-sportsvan/2002-2004/",
+        "model_id": 25,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Corolla-Verso-sportsvan/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 82,
+        "year": "2000 - 2003",
+        "year_url": "http://www.rudefix.dk/bilrude/Mitsubishi/Pajero-Pinin/2000-2003/",
+        "model_id": 24,
+        "model_url": "http://www.rudefix.dk/bilrude/Mitsubishi/Pajero-Pinin/",
+        "brand_id": 25,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mitsubishi/"
+    },
+    {
+        "year_id": 83,
+        "year": "2005 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Hi-Lux-pick-up/2005-2012/",
+        "model_id": 28,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Hi-Lux-pick-up/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 84,
+        "year": "1998 - 2005",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Hi-Lux-pick-up/1998-2005/",
+        "model_id": 28,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Hi-Lux-pick-up/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 85,
+        "year": "1989 - 1998",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Hi-Lux-pick-up/1989-1998/",
+        "model_id": 28,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Hi-Lux-pick-up/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 86,
+        "year": "1996 - 2001",
+        "year_url": "http://www.rudefix.dk/bilrude/Hyundai/Elantra-stationcar/1996-2001/",
+        "model_id": 11,
+        "model_url": "http://www.rudefix.dk/bilrude/Hyundai/Elantra-stationcar/",
+        "brand_id": 15,
+        "brand_url": "http://www.rudefix.dk/bilrude/Hyundai/"
+    },
+    {
+        "year_id": 87,
+        "year": "2008 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Chrysler/Voyager-mini-van/2008-2018/",
+        "model_id": 8,
+        "model_url": "http://www.rudefix.dk/bilrude/Chrysler/Voyager-mini-van/",
+        "brand_id": 5,
+        "brand_url": "http://www.rudefix.dk/bilrude/Chrysler/"
+    },
+    {
+        "year_id": 88,
+        "year": "1958 - 1996",
+        "year_url": "http://www.rudefix.dk/bilrude/Rover/Mini/1958-1996/",
+        "model_id": 9,
+        "model_url": "http://www.rudefix.dk/bilrude/Rover/Mini/",
+        "brand_id": 31,
+        "brand_url": "http://www.rudefix.dk/bilrude/Rover/"
+    },
+    {
+        "year_id": 89,
+        "year": "2003 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Peugeot/307-cabriolet/2003-2012/",
+        "model_id": 29,
+        "model_url": "http://www.rudefix.dk/bilrude/Peugeot/307-cabriolet/",
+        "brand_id": 28,
+        "brand_url": "http://www.rudefix.dk/bilrude/Peugeot/"
+    },
+    {
+        "year_id": 90,
+        "year": "1989 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Skoda/Favorit-stationcar/1989-2012/",
+        "model_id": 9,
+        "model_url": "http://www.rudefix.dk/bilrude/Skoda/Favorit-stationcar/",
+        "brand_id": 33,
+        "brand_url": "http://www.rudefix.dk/bilrude/Skoda/"
+    },
+    {
+        "year_id": 91,
+        "year": "2016 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Peugeot/Expert/2016-2018/",
+        "model_id": 50,
+        "model_url": "http://www.rudefix.dk/bilrude/Peugeot/Expert/",
+        "brand_id": 28,
+        "brand_url": "http://www.rudefix.dk/bilrude/Peugeot/"
+    },
+    {
+        "year_id": 92,
+        "year": "2007 - 2016",
+        "year_url": "http://www.rudefix.dk/bilrude/Peugeot/Expert/2007-2016/",
+        "model_id": 50,
+        "model_url": "http://www.rudefix.dk/bilrude/Peugeot/Expert/",
+        "brand_id": 28,
+        "brand_url": "http://www.rudefix.dk/bilrude/Peugeot/"
+    },
+    {
+        "year_id": 93,
+        "year": "1994 - 2007",
+        "year_url": "http://www.rudefix.dk/bilrude/Peugeot/Expert/1994-2007/",
+        "model_id": 50,
+        "model_url": "http://www.rudefix.dk/bilrude/Peugeot/Expert/",
+        "brand_id": 28,
+        "brand_url": "http://www.rudefix.dk/bilrude/Peugeot/"
+    },
+    {
+        "year_id": 94,
+        "year": "2010 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Audi/A7/2010-2018/",
+        "model_id": 23,
+        "model_url": "http://www.rudefix.dk/bilrude/Audi/A7/",
+        "brand_id": 2,
+        "brand_url": "http://www.rudefix.dk/bilrude/Audi/"
+    },
+    {
+        "year_id": 95,
+        "year": "2014 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Renault/Trafic/2014-2018/",
+        "model_id": 20,
+        "model_url": "http://www.rudefix.dk/bilrude/Renault/Trafic/",
+        "brand_id": 30,
+        "brand_url": "http://www.rudefix.dk/bilrude/Renault/"
+    },
+    {
+        "year_id": 96,
+        "year": "2007 - 2014",
+        "year_url": "http://www.rudefix.dk/bilrude/Renault/Trafic/2007-2014/",
+        "model_id": 20,
+        "model_url": "http://www.rudefix.dk/bilrude/Renault/Trafic/",
+        "brand_id": 30,
+        "brand_url": "http://www.rudefix.dk/bilrude/Renault/"
+    },
+    {
+        "year_id": 97,
+        "year": "2001 - 2007",
+        "year_url": "http://www.rudefix.dk/bilrude/Renault/Trafic/2001-2007/",
+        "model_id": 20,
+        "model_url": "http://www.rudefix.dk/bilrude/Renault/Trafic/",
+        "brand_id": 30,
+        "brand_url": "http://www.rudefix.dk/bilrude/Renault/"
+    },
+    {
+        "year_id": 98,
+        "year": "2001 - 2014",
+        "year_url": "http://www.rudefix.dk/bilrude/Renault/Trafic/2001-2014/",
+        "model_id": 20,
+        "model_url": "http://www.rudefix.dk/bilrude/Renault/Trafic/",
+        "brand_id": 30,
+        "brand_url": "http://www.rudefix.dk/bilrude/Renault/"
+    },
+    {
+        "year_id": 99,
+        "year": "2008 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Subaru/Forrester-stationcar/2008-2012/",
+        "model_id": 3,
+        "model_url": "http://www.rudefix.dk/bilrude/Subaru/Forrester-stationcar/",
+        "brand_id": 36,
+        "brand_url": "http://www.rudefix.dk/bilrude/Subaru/"
+    },
+    {
+        "year_id": 100,
+        "year": "2002 - 2008",
+        "year_url": "http://www.rudefix.dk/bilrude/Subaru/Forrester-stationcar/2002-2008/",
+        "model_id": 3,
+        "model_url": "http://www.rudefix.dk/bilrude/Subaru/Forrester-stationcar/",
+        "brand_id": 36,
+        "brand_url": "http://www.rudefix.dk/bilrude/Subaru/"
+    },
+    {
+        "year_id": 101,
+        "year": "0000 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/x.div/Stenslag/0000-2018/",
+        "model_id": 4,
+        "model_url": "http://www.rudefix.dk/bilrude/x.div/Stenslag/",
+        "brand_id": 43,
+        "brand_url": "http://www.rudefix.dk/bilrude/x.div/"
+    },
+    {
+        "year_id": 102,
+        "year": "2006 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Nissan/Qashqai-plus-2/2006-2018/",
+        "model_id": 23,
+        "model_url": "http://www.rudefix.dk/bilrude/Nissan/Qashqai-plus-2/",
+        "brand_id": 26,
+        "brand_url": "http://www.rudefix.dk/bilrude/Nissan/"
+    },
+    {
+        "year_id": 103,
+        "year": "1986 - 1993",
+        "year_url": "http://www.rudefix.dk/bilrude/Ford/Transit-van-bus-lav-model/1986-1993/",
+        "model_id": 30,
+        "model_url": "http://www.rudefix.dk/bilrude/Ford/Transit-van-bus-lav-model/",
+        "brand_id": 13,
+        "brand_url": "http://www.rudefix.dk/bilrude/Ford/"
+    },
+    {
+        "year_id": 104,
+        "year": "2005 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Lexus/GS/2005-2018/",
+        "model_id": 2,
+        "model_url": "http://www.rudefix.dk/bilrude/Lexus/GS/",
+        "brand_id": 21,
+        "brand_url": "http://www.rudefix.dk/bilrude/Lexus/"
+    },
+    {
+        "year_id": 105,
+        "year": "2003 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Fiat/Ulysse/2003-2012/",
+        "model_id": 30,
+        "model_url": "http://www.rudefix.dk/bilrude/Fiat/Ulysse/",
+        "brand_id": 12,
+        "brand_url": "http://www.rudefix.dk/bilrude/Fiat/"
+    },
+    {
+        "year_id": 106,
+        "year": "2005 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Mercedes/G-klasse/2005-2012/",
+        "model_id": 16,
+        "model_url": "http://www.rudefix.dk/bilrude/Mercedes/G-klasse/",
+        "brand_id": 23,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mercedes/"
+    },
+    {
+        "year_id": 107,
+        "year": "1998 - 2005",
+        "year_url": "http://www.rudefix.dk/bilrude/Mercedes/G-klasse/1998-2005/",
+        "model_id": 16,
+        "model_url": "http://www.rudefix.dk/bilrude/Mercedes/G-klasse/",
+        "brand_id": 23,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mercedes/"
+    },
+    {
+        "year_id": 108,
+        "year": "1988 - 1992",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Carina-II-stationcar/1988-1992/",
+        "model_id": 15,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Carina-II-stationcar/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 109,
+        "year": "1994 - 2001",
+        "year_url": "http://www.rudefix.dk/bilrude/Peugeot/806/1994-2001/",
+        "model_id": 46,
+        "model_url": "http://www.rudefix.dk/bilrude/Peugeot/806/",
+        "brand_id": 28,
+        "brand_url": "http://www.rudefix.dk/bilrude/Peugeot/"
+    },
+    {
+        "year_id": 110,
+        "year": "1997 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Fiat/Palio-weekend/1997-2012/",
+        "model_id": 18,
+        "model_url": "http://www.rudefix.dk/bilrude/Fiat/Palio-weekend/",
+        "brand_id": 12,
+        "brand_url": "http://www.rudefix.dk/bilrude/Fiat/"
+    },
+    {
+        "year_id": 111,
+        "year": "1999 - 2003",
+        "year_url": "http://www.rudefix.dk/bilrude/Land-rover/Range-Rover-V8/1999-2003/",
+        "model_id": 10,
+        "model_url": "http://www.rudefix.dk/bilrude/Land-rover/Range-Rover-V8/",
+        "brand_id": 20,
+        "brand_url": "http://www.rudefix.dk/bilrude/Land-rover/"
+    },
+    {
+        "year_id": 112,
+        "year": "1994 - 1999",
+        "year_url": "http://www.rudefix.dk/bilrude/Land-rover/Range-Rover-V8/1994-1999/",
+        "model_id": 10,
+        "model_url": "http://www.rudefix.dk/bilrude/Land-rover/Range-Rover-V8/",
+        "brand_id": 20,
+        "brand_url": "http://www.rudefix.dk/bilrude/Land-rover/"
+    },
+    {
+        "year_id": 113,
+        "year": "2014 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Suzuki/Celerio/2014-2018/",
+        "model_id": 7,
+        "model_url": "http://www.rudefix.dk/bilrude/Suzuki/Celerio/",
+        "brand_id": 37,
+        "brand_url": "http://www.rudefix.dk/bilrude/Suzuki/"
+    },
+    {
+        "year_id": 114,
+        "year": "1993 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Peugeot/306-stationcar/1993-2018/",
+        "model_id": 26,
+        "model_url": "http://www.rudefix.dk/bilrude/Peugeot/306-stationcar/",
+        "brand_id": 28,
+        "brand_url": "http://www.rudefix.dk/bilrude/Peugeot/"
+    },
+    {
+        "year_id": 115,
+        "year": "2001 - 2008",
+        "year_url": "http://www.rudefix.dk/bilrude/Chrysler/Grand-Voyager/2001-2008/",
+        "model_id": 3,
+        "model_url": "http://www.rudefix.dk/bilrude/Chrysler/Grand-Voyager/",
+        "brand_id": 5,
+        "brand_url": "http://www.rudefix.dk/bilrude/Chrysler/"
+    },
+    {
+        "year_id": 116,
+        "year": "1996 - 2001",
+        "year_url": "http://www.rudefix.dk/bilrude/Chrysler/Grand-Voyager/1996-2001/",
+        "model_id": 3,
+        "model_url": "http://www.rudefix.dk/bilrude/Chrysler/Grand-Voyager/",
+        "brand_id": 5,
+        "brand_url": "http://www.rudefix.dk/bilrude/Chrysler/"
+    },
+    {
+        "year_id": 117,
+        "year": "2014 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Honda/Civic-TOURER/2014-2018/",
+        "model_id": 9,
+        "model_url": "http://www.rudefix.dk/bilrude/Honda/Civic-TOURER/",
+        "brand_id": 14,
+        "brand_url": "http://www.rudefix.dk/bilrude/Honda/"
+    },
+    {
+        "year_id": 118,
+        "year": "2013 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Renault/Clio-Stationcar/2013-2018/",
+        "model_id": 5,
+        "model_url": "http://www.rudefix.dk/bilrude/Renault/Clio-Stationcar/",
+        "brand_id": 30,
+        "brand_url": "http://www.rudefix.dk/bilrude/Renault/"
+    },
+    {
+        "year_id": 119,
+        "year": "1996 - 2002",
+        "year_url": "http://www.rudefix.dk/bilrude/Hyundai/Coupe/1996-2002/",
+        "model_id": 8,
+        "model_url": "http://www.rudefix.dk/bilrude/Hyundai/Coupe/",
+        "brand_id": 15,
+        "brand_url": "http://www.rudefix.dk/bilrude/Hyundai/"
+    },
+    {
+        "year_id": 120,
+        "year": "1999 - 2000",
+        "year_url": "http://www.rudefix.dk/bilrude/Mitsubishi/Space-Wagon/1999-2000/",
+        "model_id": 28,
+        "model_url": "http://www.rudefix.dk/bilrude/Mitsubishi/Space-Wagon/",
+        "brand_id": 25,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mitsubishi/"
+    },
+    {
+        "year_id": 121,
+        "year": "1991 - 1999",
+        "year_url": "http://www.rudefix.dk/bilrude/Mitsubishi/Space-Wagon/1991-1999/",
+        "model_id": 28,
+        "model_url": "http://www.rudefix.dk/bilrude/Mitsubishi/Space-Wagon/",
+        "brand_id": 25,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mitsubishi/"
+    },
+    {
+        "year_id": 122,
+        "year": "1998 - 2000",
+        "year_url": "http://www.rudefix.dk/bilrude/Hyundai/Atos/1998-2000/",
+        "model_id": 6,
+        "model_url": "http://www.rudefix.dk/bilrude/Hyundai/Atos/",
+        "brand_id": 15,
+        "brand_url": "http://www.rudefix.dk/bilrude/Hyundai/"
+    },
+    {
+        "year_id": 123,
+        "year": "2003 - 2007",
+        "year_url": "http://www.rudefix.dk/bilrude/Peugeot/1007/2003-2007/",
+        "model_id": 2,
+        "model_url": "http://www.rudefix.dk/bilrude/Peugeot/1007/",
+        "brand_id": 28,
+        "brand_url": "http://www.rudefix.dk/bilrude/Peugeot/"
+    },
+    {
+        "year_id": 124,
+        "year": "2008 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Honda/Accord-stationcar/2008-2018/",
+        "model_id": 4,
+        "model_url": "http://www.rudefix.dk/bilrude/Honda/Accord-stationcar/",
+        "brand_id": 14,
+        "brand_url": "http://www.rudefix.dk/bilrude/Honda/"
+    },
+    {
+        "year_id": 125,
+        "year": "2003 - 2008",
+        "year_url": "http://www.rudefix.dk/bilrude/Honda/Accord-stationcar/2003-2008/",
+        "model_id": 4,
+        "model_url": "http://www.rudefix.dk/bilrude/Honda/Accord-stationcar/",
+        "brand_id": 14,
+        "brand_url": "http://www.rudefix.dk/bilrude/Honda/"
+    },
+    {
+        "year_id": 126,
+        "year": "2002 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Picnic/2002-2012/",
+        "model_id": 36,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Picnic/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 127,
+        "year": "1997 - 2002",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Picnic/1997-2002/",
+        "model_id": 36,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Picnic/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 128,
+        "year": "1992 - 1997",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Camry-stationcar/1992-1997/",
+        "model_id": 11,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Camry-stationcar/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 129,
+        "year": "2003 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Daewoo/Rezzo/2003-2012/",
+        "model_id": 15,
+        "model_url": "http://www.rudefix.dk/bilrude/Daewoo/Rezzo/",
+        "brand_id": 8,
+        "brand_url": "http://www.rudefix.dk/bilrude/Daewoo/"
+    },
+    {
+        "year_id": 130,
+        "year": "2000 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Daewoo/Rezzo/2000-2012/",
+        "model_id": 15,
+        "model_url": "http://www.rudefix.dk/bilrude/Daewoo/Rezzo/",
+        "brand_id": 8,
+        "brand_url": "http://www.rudefix.dk/bilrude/Daewoo/"
+    },
+    {
+        "year_id": 131,
+        "year": "2009 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Avensis-stationcar/2009-2018/",
+        "model_id": 6,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Avensis-stationcar/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 132,
+        "year": "2003 - 2009",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Avensis-stationcar/2003-2009/",
+        "model_id": 6,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Avensis-stationcar/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 133,
+        "year": "1998 - 2003",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Avensis-stationcar/1998-2003/",
+        "model_id": 6,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Avensis-stationcar/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 134,
+        "year": "2002 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Kia/Sorento/2002-2012/",
+        "model_id": 21,
+        "model_url": "http://www.rudefix.dk/bilrude/Kia/Sorento/",
+        "brand_id": 19,
+        "brand_url": "http://www.rudefix.dk/bilrude/Kia/"
+    },
+    {
+        "year_id": 135,
+        "year": "2010 - 2018",
+        "year_url": "http://www.rudefix.dk/bilrude/Mitsubishi/ASX/2010-2018/",
+        "model_id": 2,
+        "model_url": "http://www.rudefix.dk/bilrude/Mitsubishi/ASX/",
+        "brand_id": 25,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mitsubishi/"
+    },
+    {
+        "year_id": 136,
+        "year": "1999 - 2012",
+        "year_url": "http://www.rudefix.dk/bilrude/Toyota/Yaris-Verso/1999-2012/",
+        "model_id": 47,
+        "model_url": "http://www.rudefix.dk/bilrude/Toyota/Yaris-Verso/",
+        "brand_id": 40,
+        "brand_url": "http://www.rudefix.dk/bilrude/Toyota/"
+    },
+    {
+        "year_id": 137,
+        "year": "1999 - 2000",
+        "year_url": "http://www.rudefix.dk/bilrude/Mitsubishi/Pajero-Sport/1999-2000/",
+        "model_id": 25,
+        "model_url": "http://www.rudefix.dk/bilrude/Mitsubishi/Pajero-Sport/",
+        "brand_id": 25,
+        "brand_url": "http://www.rudefix.dk/bilrude/Mitsubishi/"
+    }
+]

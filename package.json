@@ -1,0 +1,16 @@
+{
+    "name": "sample",
+    "private": true,
+    "homepage": "https://github.com/cssmagic/{sample}",
+    "author": "",
+    "description": "{Description of Sample}",
+    "license": "MIT",
+    "scripts": {},
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.2",
+        "fs": "0.0.1-security",
+        "http": "0.0.0",
+        "request-promise": "^4.2.2"
+    },
+    "devDependencies": {}
+}

@@ -5,7 +5,7 @@ var brandList = require('./json-data/brand.json')
 
 var completed_requests = 0;
 modelList = [];
-console.log(brandList);
+var count = 1;
 console.log("console.log(brandList);");
 brandList.forEach(function(element) {
 	var currentUrl = element.brand_url;
@@ -24,11 +24,12 @@ brandList.forEach(function(element) {
 			$('.twelve div').each(function(i, e1) {
 				if (!(e1.attribs.class == 'underline-heading')) {					
 					var obj = {};
-					obj.model_id = i + 1;
+					obj.model_id = count;
 					obj.name = e1.children[0].children[0].data;
 					obj.model_url = currentUrl + e1.children[0].attribs.href;
 					obj.brand_id = element.brand_id;
 					obj.brand_url = element.brand_url;
+					count++;
 					modelList.push(obj);
 				}
 			});
@@ -41,7 +42,8 @@ brandList.forEach(function(element) {
 		});
 
 	}).on("error", (err) => { 
-		console.log("Error: " + err.message);
+		console.log(currentUrl)
+		console.log("Error------------------------------------------------------------------------->>: " + err.message);
 	});
 
 });
