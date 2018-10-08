@@ -21,5 +21,5 @@ Promise.all(promises).then((data) => {
 		//console.log(element.children[0].data);
 	});
 	var stingJson= JSON.stringify(carlist);
-	fs.writeFileSync('./json-data/brand.json', stingJson);
+	fs.writeFileSync('./async/data/brand.json', stingJson);
 });
